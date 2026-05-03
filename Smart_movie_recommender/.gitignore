@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+pytest-cache-files-*/
+.tmp/
+.venv/
+venv/
+*.pyc
+.streamlit/secrets.toml
+data/*.pkl
+data/*.joblib
+data.zip
+docs/project_report.md
+docs/presentation_outline.md
