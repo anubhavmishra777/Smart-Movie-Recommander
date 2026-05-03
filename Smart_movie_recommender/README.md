@@ -2,7 +2,7 @@
 
 A Python-based web application that recommends movies from a predefined dataset using content-based filtering. The system combines movie genres, keywords, and plot overview, converts the text into TF-IDF vectors, and ranks similar movies with cosine similarity.
 
-Repository: https://github.com/Suryansh-pratap-05/Smart--Movie-Recommender
+
 
 ## Features
 
@@ -94,4 +94,4 @@ python -m pytest
 
 ## Author
 
-Created by Suryansh Pratap singh.
+Created by Anubhav Mishra
